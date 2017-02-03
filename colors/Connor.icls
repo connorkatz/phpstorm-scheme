@@ -163,6 +163,11 @@
         <option name="FOREGROUND" value="cdcd00" />
       </value>
     </option>
+    <option name="CSS.COLOR">
+      <value>
+        <option name="FOREGROUND" value="9a8297" />
+      </value>
+    </option>
     <option name="CSS.FUNCTION">
       <value>
         <option name="FOREGROUND" value="c45837" />
@@ -171,11 +176,6 @@
     <option name="CSS.IDENT">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
-      </value>
-    </option>
-    <option name="CSS.OPERATORS">
-      <value>
-        <option name="FOREGROUND" value="b7c981" />
       </value>
     </option>
     <option name="CSS.PROPERTY_NAME">
