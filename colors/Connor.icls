@@ -629,6 +629,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JS.REGEXP">
+      <value>
+        <option name="FOREGROUND" value="b7c981" />
+      </value>
+    </option>
     <option name="JSON.KEYWORD">
       <value>
         <option name="FOREGROUND" value="7ea9c7" />
