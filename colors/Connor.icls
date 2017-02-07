@@ -631,22 +631,22 @@
     </option>
     <option name="JSON.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="cc7832" />
-      </value>
-    </option>
-    <option name="JSON.NUMBER">
-      <value>
-        <option name="FOREGROUND" value="ddca7e" />
+        <option name="FOREGROUND" value="7ea9c7" />
       </value>
     </option>
     <option name="JSON.PROPERTY_KEY">
       <value>
-        <option name="FOREGROUND" value="7ea9c7" />
+        <option name="FOREGROUND" value="c7706e" />
       </value>
     </option>
     <option name="JSON.STRING">
       <value>
         <option name="FOREGROUND" value="ddca7e" />
+      </value>
+    </option>
+    <option name="JSON.VALID_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="93b38a" />
       </value>
     </option>
     <option name="LABEL">
@@ -991,12 +991,12 @@
     </option>
     <option name="YAML_SCALAR_DSTRING">
       <value>
-        <option name="FOREGROUND" value="ddca7e" />
+        <option name="FOREGROUND" value="93b38a" />
       </value>
     </option>
     <option name="YAML_SCALAR_KEY">
       <value>
-        <option name="FOREGROUND" value="9a8297" />
+        <option name="FOREGROUND" value="c7706e" />
       </value>
     </option>
     <option name="YAML_SCALAR_LIST">
@@ -1008,7 +1008,7 @@
     </option>
     <option name="YAML_SCALAR_STRING">
       <value>
-        <option name="FOREGROUND" value="ddca7e" />
+        <option name="FOREGROUND" value="93b38a" />
       </value>
     </option>
   </attributes>
