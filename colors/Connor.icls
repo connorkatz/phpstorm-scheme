@@ -165,7 +165,7 @@
     </option>
     <option name="CSS.COLOR">
       <value>
-        <option name="FOREGROUND" value="9c59b3" />
+        <option name="FOREGROUND" value="a16bb2" />
       </value>
     </option>
     <option name="CSS.FUNCTION">
@@ -238,7 +238,7 @@
     </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="b26e59" />
+        <option name="FOREGROUND" value="b37c6b" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -371,7 +371,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="cc7e66" />
+        <option name="FOREGROUND" value="b37c6b" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
