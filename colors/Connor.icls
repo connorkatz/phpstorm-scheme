@@ -165,12 +165,12 @@
     </option>
     <option name="CSS.COLOR">
       <value>
-        <option name="FOREGROUND" value="9a8297" />
+        <option name="FOREGROUND" value="9c59b3" />
       </value>
     </option>
     <option name="CSS.FUNCTION">
       <value>
-        <option name="FOREGROUND" value="c45837" />
+        <option name="FOREGROUND" value="cc5452" />
       </value>
     </option>
     <option name="CSS.IDENT">
@@ -178,14 +178,19 @@
         <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
+    <option name="CSS.IMPORTANT">
+      <value>
+        <option name="FOREGROUND" value="b32432" />
+      </value>
+    </option>
     <option name="CSS.PROPERTY_NAME">
       <value>
-        <option name="FOREGROUND" value="7ea9c7" />
+        <option name="FOREGROUND" value="8aaae5" />
       </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="b4c973" />
+        <option name="FOREGROUND" value="b3cc66" />
       </value>
     </option>
     <option name="CSS.TAG_NAME">
@@ -195,7 +200,7 @@
     </option>
     <option name="CSS.UNICODE.RANGE">
       <value>
-        <option name="FOREGROUND" value="b7c981" />
+        <option name="FOREGROUND" value="7d996b" />
       </value>
     </option>
     <option name="CSS.URL">
@@ -253,18 +258,18 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="797979" />
+        <option name="FOREGROUND" value="737780" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="cccccc" />
+        <option name="FOREGROUND" value="acafb5" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="cccccc" />
+        <option name="FOREGROUND" value="acafb5" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -290,7 +295,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="797979" />
+        <option name="FOREGROUND" value="737780" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -334,7 +339,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="809bbd" />
+        <option name="FOREGROUND" value="8aaae6" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -356,12 +361,12 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="cc7832" />
+        <option name="FOREGROUND" value="9c59b3" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="797979" />
+        <option name="FOREGROUND" value="737780" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -376,17 +381,17 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="b4c973" />
+        <option name="FOREGROUND" value="b3cc66" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="cc9a5b" />
+        <option name="FOREGROUND" value="cc7e66" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="cccccc" />
+        <option name="FOREGROUND" value="acafb5" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -418,7 +423,7 @@
     </option>
     <option name="DEFAULT_TAG">
       <value>
-        <option name="FOREGROUND" value="e8bf6a" />
+        <option name="FOREGROUND" value="e3be7e" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
