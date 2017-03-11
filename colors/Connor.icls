@@ -175,7 +175,18 @@
     </option>
     <option name="CSS.IMPORTANT">
       <value>
-        <option name="FOREGROUND" value="a63232" />
+        <option name="FOREGROUND" value="b33636" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="a5b37d" />
+      </value>
+    </option>
+    <option name="CSS.OPERATORS">
+      <value>
+        <option name="FOREGROUND" value="b27c6b" />
       </value>
     </option>
     <option name="CSS.PROPERTY_NAME">
@@ -185,7 +196,7 @@
     </option>
     <option name="CSS.PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="a1b26b" />
+        <option name="FOREGROUND" value="a5b37d" />
       </value>
     </option>
     <option name="CSS.TAG_NAME">
@@ -361,7 +372,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="b36b72" />
+        <option name="FOREGROUND" value="b25962" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -371,7 +382,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="a1b26b" />
+        <option name="FOREGROUND" value="6bb2a3" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -413,7 +424,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="a1b36b" />
+        <option name="FOREGROUND" value="a5b37d" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -623,6 +634,11 @@
         <option name="FOREGROUND" value="b7c981" />
       </value>
     </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="e3be7e" />
+      </value>
+    </option>
     <option name="JSON.VALID_ESCAPE">
       <value>
         <option name="FOREGROUND" value="93b38a" />
@@ -813,7 +829,7 @@
     </option>
     <option name="SASS_MIXIN">
       <value>
-        <option name="FOREGROUND" value="d0d0ff" />
+        <option name="FOREGROUND" value="a16bb2" />
       </value>
     </option>
     <option name="SASS_VARIABLE">
@@ -945,26 +961,15 @@
         <option name="FOREGROUND" value="e3be7e" />
       </value>
     </option>
-    <option name="YAML_SCALAR_DSTRING">
-      <value>
-        <option name="FOREGROUND" value="93b38a" />
-      </value>
-    </option>
     <option name="YAML_SCALAR_KEY">
       <value>
-        <option name="FOREGROUND" value="c7706e" />
+        <option name="FOREGROUND" value="e3be7e" />
       </value>
     </option>
     <option name="YAML_SCALAR_LIST">
       <value>
-        <option name="FOREGROUND" value="ddca7e" />
-        <option name="BACKGROUND" value="2e2e2e" />
+        <option name="FOREGROUND" value="8aaae5" />
         <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
-    <option name="YAML_SCALAR_STRING">
-      <value>
-        <option name="FOREGROUND" value="93b38a" />
       </value>
     </option>
   </attributes>
