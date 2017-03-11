@@ -165,12 +165,12 @@
     </option>
     <option name="CSS.COLOR">
       <value>
-        <option name="FOREGROUND" value="a16bb2" />
+        <option name="FOREGROUND" value="b27c6b" />
       </value>
     </option>
     <option name="CSS.FUNCTION">
       <value>
-        <option name="FOREGROUND" value="cc5252" />
+        <option name="FOREGROUND" value="b27c6b" />
       </value>
     </option>
     <option name="CSS.IMPORTANT">
@@ -561,8 +561,6 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="aeae80" />
-        <option name="ERROR_STRIPE_COLOR" value="aeae80" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -745,21 +743,12 @@
         <option name="FOREGROUND" value="cc9a5b" />
       </value>
     </option>
-    <option name="PHP_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="cc7e40" />
-      </value>
-    </option>
     <option name="PHP_OPERATION_SIGN">
       <value>
         <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
-    <option name="PHP_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-      </value>
-    </option>
+    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_PREDEFINED SYMBOL">
       <value>
         <option name="FOREGROUND" value="ccae48" />
@@ -782,11 +771,7 @@
         <option name="FOREGROUND" value="7ea9c7" />
       </value>
     </option>
-    <option name="PHP_VAR">
-      <value>
-        <option name="FOREGROUND" value="d0d0ff" />
-      </value>
-    </option>
+    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
@@ -807,9 +792,19 @@
         <option name="BACKGROUND" value="15463c" />
       </value>
     </option>
+    <option name="SASS_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="e3be7e" />
+      </value>
+    </option>
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="d0d0ff" />
+      </value>
+    </option>
+    <option name="SASS_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="b25962" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
