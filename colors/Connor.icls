@@ -1,7 +1,5 @@
 <scheme name="Connor" version="142" parent_scheme="Default">
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="CONSOLE_FONT_NAME" value="Monaco" />
-  <option name="CONSOLE_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Monaco" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
@@ -25,7 +23,7 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="292c33" />
-    <option name="INDENT_GUIDE" value="373737" />
+    <option name="INDENT_GUIDE" value="333740" />
     <option name="LINE_NUMBERS_COLOR" value="656970" />
     <option name="METHOD_SEPARATORS_COLOR" value="4d4d4d" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
@@ -33,13 +31,13 @@
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
-    <option name="SELECTED_INDENT_GUIDE" value="505050" />
-    <option name="SELECTED_TEARLINE_COLOR" value="38404d" />
-    <option name="SELECTION_BACKGROUND" value="346899" />
-    <option name="SELECTION_FOREGROUND" value="" />
+    <option name="SELECTED_INDENT_GUIDE" value="a3becc" />
+    <option name="SELECTED_TEARLINE_COLOR" value="8aaae5" />
+    <option name="SELECTION_BACKGROUND" value="3688b2" />
+    <option name="SELECTION_FOREGROUND" value="a3becc" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="656970" />
     <option name="TEARLINE_COLOR" value="3d424d" />
-    <option name="WHITESPACES" value="505050" />
+    <option name="WHITESPACES" value="e3be7e" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -126,7 +124,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="FOREGROUND" value="656970" />
       </value>
     </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
@@ -146,7 +144,7 @@
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="FOREGROUND" value="acafb5" />
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
@@ -442,7 +440,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="cc7832" />
+        <option name="FOREGROUND" value="b27c6b" />
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
@@ -633,7 +631,7 @@
     </option>
     <option name="JSON.PROPERTY_KEY">
       <value>
-        <option name="FOREGROUND" value="e3be7e" />
+        <option name="FOREGROUND" value="b25962" />
       </value>
     </option>
     <option name="JSON.VALID_ESCAPE">
@@ -667,6 +665,11 @@
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff6b68" />
+      </value>
+    </option>
+    <option name="LOG_EXPIRED_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="656970" />
       </value>
     </option>
     <option name="List/map to object conversion">
@@ -903,7 +906,7 @@
     </option>
     <option name="TYPO">
       <value>
-        <option name="EFFECT_COLOR" value="867f27" />
+        <option name="EFFECT_COLOR" value="656970" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -921,7 +924,6 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2e2e2e" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -960,7 +962,7 @@
     </option>
     <option name="YAML_SCALAR_KEY">
       <value>
-        <option name="FOREGROUND" value="e3be7e" />
+        <option name="FOREGROUND" value="b25962" />
       </value>
     </option>
     <option name="YAML_SCALAR_LIST">
