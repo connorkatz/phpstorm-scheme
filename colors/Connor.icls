@@ -253,7 +253,7 @@
     </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="cc7833" />
+        <option name="FOREGROUND" value="b3836b" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -361,7 +361,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="9c59b3" />
+        <option name="FOREGROUND" value="a16bb3" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -381,7 +381,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="b3cc66" />
+        <option name="FOREGROUND" value="b7c981" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -418,7 +418,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="b7c981" />
+        <option name="FOREGROUND" value="a1b36b" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -538,16 +538,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="HTML_ATTRIBUTE_NAME">
-      <value>
-        <option name="FOREGROUND" value="cc9a5b" />
-      </value>
-    </option>
-    <option name="HTML_ATTRIBUTE_VALUE">
-      <value>
-        <option name="FOREGROUND" value="b7c981" />
-      </value>
-    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="6d9cbe" />
@@ -579,6 +569,8 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
+        <option name="EFFECT_COLOR" value="aeae80" />
+        <option name="ERROR_STRIPE_COLOR" value="aeae80" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -890,7 +882,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="e6e1dc" />
+        <option name="FOREGROUND" value="c2c5cc" />
         <option name="BACKGROUND" value="292c33" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
