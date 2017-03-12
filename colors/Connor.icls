@@ -629,6 +629,11 @@
         <option name="FOREGROUND" value="b7c981" />
       </value>
     </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="b35962" />
+      </value>
+    </option>
     <option name="JSON.VALID_ESCAPE">
       <value>
         <option name="FOREGROUND" value="93b38a" />
