@@ -53,6 +53,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="APACHE_CONFIG.IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="e3be7e" />
+      </value>
+    </option>
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff0000" />
@@ -266,7 +271,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="b26136" />
+        <option name="FOREGROUND" value="e3be7e" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -321,7 +326,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="cc7833" />
+        <option name="FOREGROUND" value="b36136" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -591,9 +596,7 @@
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
-      <value>
-        <option name="BACKGROUND" value="292929" />
-      </value>
+      <value />
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
@@ -624,11 +627,6 @@
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="b7c981" />
-      </value>
-    </option>
-    <option name="JSON.PROPERTY_KEY">
-      <value>
-        <option name="FOREGROUND" value="b25962" />
       </value>
     </option>
     <option name="JSON.VALID_ESCAPE">
@@ -857,7 +855,7 @@
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ae8abe" />
+        <option name="FOREGROUND" value="a16bb3" />
       </value>
     </option>
     <option name="TEXT">

@@ -1,7 +1,4 @@
 <code_scheme name="Connor">
-  <CssCodeStyleSettings>
-    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
-  </CssCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
   </JSCodeStyleSettings>
