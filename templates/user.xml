@@ -1,14 +1,14 @@
 <templateSet group="user">
-  <template name="//=" value="// ------------------------------&#10;// $END$&#10;// ------------------------------" description="block comment" toReformat="true" toShortenFQNames="true">
+  <template name="//=" value="// ===================================&#10;// $END$&#10;// ===================================" description="block comment" toReformat="true" toShortenFQNames="true">
     <context>
+      <option name="JAVA_SCRIPT" value="true" />
       <option name="CSS" value="true" />
-      <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="//" value="// ------------------------------" description="line comment" toReformat="true" toShortenFQNames="true">
+  <template name="//-" value="// -----------------------------------&#10;// $END$&#10;// -----------------------------------" description="line comment" toReformat="true" toShortenFQNames="true">
     <context>
+      <option name="JAVA_SCRIPT" value="true" />
       <option name="CSS" value="true" />
-      <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
   <template name="--" value="&lt;!-- end $END$ --&gt;" description="close tag description" toReformat="false" toShortenFQNames="true">
