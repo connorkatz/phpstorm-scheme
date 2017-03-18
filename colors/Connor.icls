@@ -261,12 +261,12 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="acafb5" />
+        <option name="FOREGROUND" value="a9b0bd" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="acafb5" />
+        <option name="FOREGROUND" value="a9b0bd" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -281,7 +281,7 @@
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="acafb5" />
+        <option name="FOREGROUND" value="a9b0bd" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -316,7 +316,7 @@
     </option>
     <option name="DEFAULT_DOT">
       <value>
-        <option name="FOREGROUND" value="acafb5" />
+        <option name="FOREGROUND" value="a9b0bd" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
@@ -389,7 +389,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="acafb5" />
+        <option name="FOREGROUND" value="a9b0bd" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -399,7 +399,7 @@
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="acafb5" />
+        <option name="FOREGROUND" value="a9b0bd" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -409,7 +409,7 @@
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="acafb5" />
+        <option name="FOREGROUND" value="a9b0bd" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
@@ -552,9 +552,7 @@
       </value>
     </option>
     <option name="HTML_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="e3be7e" />
-      </value>
+      <value />
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
@@ -865,7 +863,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="acafb5" />
+        <option name="FOREGROUND" value="a9b0bd" />
         <option name="BACKGROUND" value="282c34" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
