@@ -1,7 +1,11 @@
 <keymap version="1" name="connor.default" parent="Mac OS X 10.5+">
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="meta down" />
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
   </action>
   <action id="Console.TableResult.NavigateAction">
     <keyboard-shortcut first-keystroke="f4" />
@@ -15,8 +19,20 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="Jdbc.OpenTableEditor">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift alt tab" />
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
   <action id="RemoteHostView.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
