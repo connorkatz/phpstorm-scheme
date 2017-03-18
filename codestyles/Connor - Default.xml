@@ -4,9 +4,6 @@
   <option name="HTML_KEEP_LINE_BREAKS" value="false" />
   <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
   <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
-  <CssCodeStyleSettings>
-    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
-  </CssCodeStyleSettings>
   <codeStyleSettings language="JSON">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
