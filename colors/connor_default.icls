@@ -1,4 +1,11 @@
-<scheme name="Connor" version="142" parent_scheme="Default">
+<scheme name="connor.default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2017-03-18T14:53:56</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2016.3.3.0.0</property>
+    <property name="modified">2017-03-18T14:55:08</property>
+    <property name="originalScheme">Connor</property>
+  </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Monaco" />
   <colors>
