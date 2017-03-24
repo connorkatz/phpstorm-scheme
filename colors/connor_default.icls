@@ -1,12 +1,15 @@
 <scheme name="connor.default" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-03-18T14:53:56</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2017-03-22T10:22:02</property>
+    <property name="modified">2017-03-24T15:05:04</property>
     <property name="originalScheme">Connor</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_NAME" value="Monaco" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Monaco" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="364c41" />
