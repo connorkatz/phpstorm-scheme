@@ -4,7 +4,7 @@
     <property name="created">2017-03-18T14:53:56</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2017-03-24T15:05:04</property>
+    <property name="modified">2017-03-27T19:20:33</property>
     <property name="originalScheme">Connor</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -876,7 +876,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="a9b0bd" />
+        <option name="FOREGROUND" value="acafb5" />
         <option name="BACKGROUND" value="282c34" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
