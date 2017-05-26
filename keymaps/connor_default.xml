@@ -1,6 +1,5 @@
 <keymap version="1" name="connor.default" parent="Mac OS X 10.5+">
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
   <action id="Back">
