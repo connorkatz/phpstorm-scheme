@@ -25,7 +25,6 @@
       <entry key="Default">
         <PlaceSettings>
           <option name="HIGHLIGHTING_LEVEL" value="SIMPLE" />
-          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
           <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>
       </entry>
