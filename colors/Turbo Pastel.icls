@@ -4,19 +4,17 @@
     <property name="created">2017-04-21T18:53:45</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-05-29T17:07:20</property>
+    <property name="modified">2017-05-29T17:29:46</property>
     <property name="originalScheme">connor.default</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="CONSOLE_FONT_NAME" value="Monaco" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Monaco" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="364c41" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="2c323c" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="2b2b2b" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="282c34" />
     <option name="DELETED_LINES_COLOR" value="a1a6b3" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
@@ -141,7 +139,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="656970" />
+        <option name="FOREGROUND" value="acafb5" />
       </value>
     </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
