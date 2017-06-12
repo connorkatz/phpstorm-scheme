@@ -4,13 +4,10 @@
     <property name="created">2017-04-21T18:53:45</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-06-08T21:00:24</property>
+    <property name="modified">2017-06-12T10:21:08</property>
     <property name="originalScheme">connor.default</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="CONSOLE_FONT_NAME" value="Monaco" />
-  <option name="CONSOLE_FONT_SIZE" value="13" />
-  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Monaco" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="364c41" />
@@ -127,7 +124,7 @@
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="a5b37d" />
+        <option name="FOREGROUND" value="7f00" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
@@ -570,13 +567,13 @@
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="6b7a99" />
+        <option name="FOREGROUND" value="7a8699" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="b35962" />
+        <option name="FOREGROUND" value="b15a63" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
